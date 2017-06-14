@@ -1,7 +1,7 @@
 # aws-control
 Control the state of my AWS instances
 
-# Requirements:
+## Requirements
 Install & configure AWS CLI using following method
 
 * sudo apt-get install python-pip
